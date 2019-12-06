@@ -4,7 +4,7 @@ function Header() {
     return (
         <header>
             <img 
-                src="../img/MemeCat.png" 
+                src="./img/MemeCat.png" 
                 alt="Cat?"
             />
             <p>Meme Generator</p>
